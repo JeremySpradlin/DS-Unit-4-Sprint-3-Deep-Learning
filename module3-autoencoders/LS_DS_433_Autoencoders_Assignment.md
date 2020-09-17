@@ -11,3 +11,11 @@ Read About the History of General Artificial Intelligence Research, the future o
 * [Yann LeCunn Interview](https://www.youtube.com/watch?v=SGSOCuByo24)
 
 Enjoy!  :coffee:
+
+
+
+### Questions for classmates
+
+- What are the differences between Artificial General Intelligence as discussed here, and consciouss thought?  Does understanding conscioussness play a role in creating Artififical General Inteligence?
+- What are some real ways in which artifical intelligence effects our view of the world today?
+- As computational requirements for bigger and more intelligence machines grows at the same time that comutational costs decrease, Does memory storage once again become the limiting factor in prohibiting the advance of AI?
